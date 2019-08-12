@@ -10,13 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/andrzejBlazejowski/circles.git"
   },
-  "author": "",
+  "author": "ab",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/andrzejBlazejowski/circles/issues"
   },
   "homepage": "https://github.com/andrzejBlazejowski/circles#readme",
   "dependencies": {
+    "physicsjs": "^0.7.0",
     "requirejs": "^2.3.6"
   }
 }
